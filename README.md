@@ -1,4 +1,4 @@
-React Application Using REST API.
+React Application Using REST API working with a <a href="https://jsonplaceholder.typicode.com/">{JSON} Placeholder<a> style server.
 
 Technologies: React, <a href="https://jsonplaceholder.typicode.com/">{JSON} Placeholder<a>, APIs.
 
